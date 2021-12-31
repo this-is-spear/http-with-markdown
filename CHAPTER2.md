@@ -1,11 +1,11 @@
 
-## URI와 웹 브라우저 요청 흐름
+# URI와 웹 브라우저 요청 흐름
 
 - URI
 - 웹 브라우저 요청 흐름
 
 
-### URI(Uniform Resource Identifier)
+## URI(Uniform Resource Identifier)
 
 URI는 로케이터(locator), 이름(name) 또는 둘 다 추가로 분류될 수 있다.
 > URL(Uniform Resource Locator), URN(Uniform Resource Name)은 URI(Uniform Resource Identifier)안에 포함된다.
@@ -48,7 +48,7 @@ URL
 - Query : key = value 형태 ?로 시작하고, &로 쿼리 추가 가능(query parameter, query string 등으로 불리며 웹 서버에 제공하는 문자형태의 파라미터) 
 - fragment : html 내부 북마크 등에 사용 (서버에 전송하는 정보 아님)
 
-### 웹 브라우저 요청 흐름
+## 웹 브라우저 요청 흐름
 
 1. URI를 검색한다.
 2. DNS 서버에서 해당 IP를 검색한다.
