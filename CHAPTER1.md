@@ -30,16 +30,17 @@
 
 ## TCP(전송 제어 프로토콜)
     TCP 특징 
-    - 연결지향 TCP 3 way handshake
+    - 연결지향
     - 데이터 전달 보증
     - 순서 보장
     - 신뢰할 수 있는 프로토콜
     - 대부분 TCP 사용
-
     TCP 3 way handshake
     1. SYC - 접속 요청
     2. SYN + ACK
     3. ACK - 요청 수락 (요즘은 요청 수락후 데이터 전송만이 아니라 데이터와 함께 ACK를 보내기도 한다.)
+
+[TCP 3 way handshake](https://bangu4.tistory.com/74)
 
 ## UDP(사용자 데이터그램 프로토콜)
     UDP 특징 
