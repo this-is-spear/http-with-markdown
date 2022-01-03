@@ -19,3 +19,7 @@
 
 - [챕터 5 - HTTP 메서드 활용](CHAPTER5.md)
 
+### CHAPTER 6
+
+- [첍터 6 - HTTP 상태 코드](CHAPTER6.md)
+
